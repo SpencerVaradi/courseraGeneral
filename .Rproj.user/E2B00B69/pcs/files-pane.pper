@@ -1,0 +1,9 @@
+{
+    "path" : "~/projects/R/courseraGeneral/UCI HAR Dataset/submission",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

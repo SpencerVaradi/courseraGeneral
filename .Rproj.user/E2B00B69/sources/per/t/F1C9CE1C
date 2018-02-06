@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1512934445495.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3600505051",
+    "id" : "F1C9CE1C",
+    "lastKnownWriteTime" : 1350333874,
+    "last_content_update" : 1350333874,
+    "path" : "~/projects/R/courseraGeneral/UCI HAR Dataset/submission/features_info.txt",
+    "project_path" : "UCI HAR Dataset/submission/features_info.txt",
+    "properties" : {
+        "cursorPosition" : "3,538",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

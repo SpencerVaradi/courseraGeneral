@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1512934387439.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3523890428",
+    "id" : "322CC67B",
+    "lastKnownWriteTime" : 1512940380,
+    "last_content_update" : 1512940380789,
+    "path" : "~/projects/R/courseraGeneral/UCI HAR Dataset/submission/readme.md",
+    "project_path" : "UCI HAR Dataset/submission/readme.md",
+    "properties" : {
+        "cursorPosition" : "64,73",
+        "scrollLine" : "57"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
